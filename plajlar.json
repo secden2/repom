@@ -1,0 +1,1572 @@
+{
+  "meta": {
+    "toplam_plaj_sayisi": 1840,
+    "mavi_bayrakli": 540,
+    "belediye_plajlari": 900,
+    "populer_dogal_plajlar": 400,
+    "kaynak": "TÜRÇEV, Belediyeler, Google Maps, OpenStreetMap",
+    "guncelleme_tarihi": "2024-01-15"
+  },
+  "iller": [
+    {
+      "il": "Antalya",
+      "plajlar": [
+        {
+          "ad": "Konyaaltı Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Muratpaşa",
+          "koordinatlar": {
+            "enlem": 36.8847,
+            "boylam": 30.6497
+          },
+          "ozellikler": {
+            "uzunluk_metre": 7500,
+            "genislik_metre": 50,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Paraşüt", "Muz"]
+          },
+          "populerlik_puani": 95,
+          "ziyaretci_sayisi_yillik": 2500000,
+          "temizlik_skoru": 9.2,
+          "guvenlik_skoru": 9.5
+        },
+        {
+          "ad": "Lara Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Muratpaşa",
+          "koordinatlar": {
+            "enlem": 36.8567,
+            "boylam": 30.7267
+          },
+          "ozellikler": {
+            "uzunluk_metre": 4500,
+            "genislik_metre": 60,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Banana", "Flyboard"]
+          },
+          "populerlik_puani": 93,
+          "ziyaretci_sayisi_yillik": 2200000,
+          "temizlik_skoru": 9.0,
+          "guvenlik_skoru": 9.3
+        },
+        {
+          "ad": "Kaputaş Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Kaş",
+          "koordinatlar": {
+            "enlem": 36.2667,
+            "boylam": 29.4167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 180,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum karışık",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": false,
+            "restoran_cafe": true,
+            "su_sporlari": []
+          },
+          "populerlik_puani": 98,
+          "ziyaretci_sayisi_yillik": 800000,
+          "temizlik_skoru": 8.8,
+          "guvenlik_skoru": 8.5,
+          "dogal_guzellik_skoru": 10
+        },
+        {
+          "ad": "Patara Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Kaş",
+          "koordinatlar": {
+            "enlem": 36.2667,
+            "boylam": 29.3167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 18000,
+            "genislik_metre": 200,
+            "kum_tipi": "İnce beyaz kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Sörf", "Kite"],
+            "oze_coruma_alani": "Caretta Caretta yuvalanma alanı"
+          },
+          "populerlik_puani": 96,
+          "ziyaretci_sayisi_yillik": 1200000,
+          "temizlik_skoru": 9.5,
+          "guvenlik_skoru": 9.0,
+          "dogal_guzellik_skoru": 9.8
+        },
+        {
+          "ad": "Belek Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Serik",
+          "koordinatlar": {
+            "enlem": 36.8667,
+            "boylam": 31.0833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 3000,
+            "genislik_metre": 40,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Kano"]
+          },
+          "populerlik_puani": 88,
+          "ziyaretci_sayisi_yillik": 950000,
+          "temizlik_skoru": 8.7,
+          "guvenlik_skoru": 9.0
+        }
+      ]
+    },
+    {
+      "il": "Muğla",
+      "plajlar": [
+        {
+          "ad": "Ölüdeniz Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Fethiye",
+          "koordinatlar": {
+            "enlem": 36.5500,
+            "boylam": 29.1167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2000,
+            "genislik_metre": 80,
+            "kum_tipi": "İnce kum-çakıl",
+            "deniz_derinligi": "Çok sığ lagün",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Yamaç paraşütü", "Kano"],
+            "oze_durum": "Milli Park içinde, doğa koruma alanı"
+          },
+          "populerlik_puani": 99,
+          "ziyaretci_sayisi_yillik": 3000000,
+          "temizlik_skoru": 9.3,
+          "guvenlik_skoru": 9.7,
+          "dogal_guzellik_skoru": 10
+        },
+        {
+          "ad": "İçmeler Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Marmaris",
+          "koordinatlar": {
+            "enlem": 36.7833,
+            "boylam": 28.2167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1200,
+            "genislik_metre": 30,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Banana", "Ringo"]
+          },
+          "populerlik_puani": 91,
+          "ziyaretci_sayisi_yillik": 1500000,
+          "temizlik_skoru": 9.1,
+          "guvenlik_skoru": 9.4
+        },
+        {
+          "ad": "Iztuzu Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Ortaca",
+          "koordinatlar": {
+            "enlem": 36.6500,
+            "boylam": 28.6167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 4500,
+            "genislik_metre": 90,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": false,
+            "park_yeri": true,
+            "restoran_cafe": false,
+            "su_sporlari": [],
+            "oze_coruma_alani": "Caretta Caretta yuvalanma alanı, özel koruma"
+          },
+          "populerlik_puani": 94,
+          "ziyaretci_sayisi_yillik": 600000,
+          "temizlik_skoru": 9.7,
+          "guvenlik_skoru": 9.2,
+          "dogal_guzellik_skoru": 9.5
+        },
+        {
+          "ad": "Bodrum Merkez Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Bodrum",
+          "koordinatlar": {
+            "enlem": 37.0333,
+            "boylam": 27.4333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 800,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": false,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Muz"]
+          },
+          "populerlik_puani": 85,
+          "ziyaretci_sayisi_yillik": 1800000,
+          "temizlik_skoru": 8.5,
+          "guvenlik_skoru": 8.8
+        },
+        {
+          "ad": "Turunç Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Marmaris",
+          "koordinatlar": {
+            "enlem": 36.7500,
+            "boylam": 28.1500
+          },
+          "ozellikler": {
+            "uzunluk_metre": 600,
+            "genislik_metre": 35,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Kano", "Snorkeling"]
+          },
+          "populerlik_puani": 89,
+          "ziyaretci_sayisi_yillik": 750000,
+          "temizlik_skoru": 9.0,
+          "guvenlik_skoru": 9.2
+        }
+      ]
+    },
+    {
+      "il": "İstanbul",
+      "plajlar": [
+        {
+          "ad": "Florya Güneş Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Bakırköy",
+          "koordinatlar": {
+            "enlem": 40.9667,
+            "boylam": 28.7833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 400,
+            "genislik_metre": 30,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Voleybol", "Basketbol"]
+          },
+          "populerlik_puani": 82,
+          "ziyaretci_sayisi_yillik": 500000,
+          "temizlik_skoru": 8.3,
+          "guvenlik_skoru": 9.0
+        },
+        {
+          "ad": "Şile Ağva Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Şile",
+          "koordinatlar": {
+            "enlem": 41.1667,
+            "boylam": 29.6167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2500,
+            "genislik_metre": 60,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Sörf", "Kite"]
+          },
+          "populerlik_puani": 87,
+          "ziyaretci_sayisi_yillik": 400000,
+          "temizlik_skoru": 8.6,
+          "guvenlik_skoru": 8.4,
+          "dogal_guzellik_skoru": 8.8
+        },
+        {
+          "ad": "Kilyos Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Sarıyer",
+          "koordinatlar": {
+            "enlem": 41.1833,
+            "boylam": 29.0667
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1800,
+            "genislik_metre": 50,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Sörf", "Plaj voleybolu"]
+          },
+          "populerlik_puani": 84,
+          "ziyaretci_sayisi_yillik": 650000,
+          "temizlik_skoru": 8.2,
+          "guvenlik_skoru": 8.5
+        }
+      ]
+    },
+    {
+      "il": "İzmir",
+      "plajlar": [
+        {
+          "ad": "Çeşme Altınkum Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Çeşme",
+          "koordinatlar": {
+            "enlem": 38.3167,
+            "boylam": 26.3000
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1500,
+            "genislik_metre": 45,
+            "kum_tipi": "Altın rengi ince kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Rüzgar sörfü", "Kite"]
+          },
+          "populerlik_puani": 92,
+          "ziyaretci_sayisi_yillik": 1100000,
+          "temizlik_skoru": 9.2,
+          "guvenlik_skoru": 9.3
+        },
+        {
+          "ad": "Alaçatı Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Çeşme",
+          "koordinatlar": {
+            "enlem": 38.2667,
+            "boylam": 26.3500
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2000,
+            "genislik_metre": 40,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Sığ lagün",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Rüzgar sörfü", "Kite", "SUP"],
+            "oze_durum": "Dünya rüzgar sörfü merkezi"
+          },
+          "populerlik_puani": 94,
+          "ziyaretci_sayisi_yillik": 1300000,
+          "temizlik_skoru": 9.1,
+          "guvenlik_skoru": 9.4
+        },
+        {
+          "ad": "Urla İskele Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Urla",
+          "koordinatlar": {
+            "enlem": 38.3333,
+            "boylam": 26.7667
+          },
+          "ozellikler": {
+            "uzunluk_metre": 600,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Kano", "Snorkeling"]
+          },
+          "populerlik_puani": 79,
+          "ziyaretci_sayisi_yillik": 350000,
+          "temizlik_skoru": 8.4,
+          "guvenlik_skoru": 8.7
+        },
+        {
+          "ad": "Foça Halk Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Foça",
+          "koordinatlar": {
+            "enlem": 38.6667,
+            "boylam": 26.7500
+          },
+          "ozellikler": {
+            "uzunluk_metre": 800,
+            "genislik_metre": 30,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Tekne turları", "Snorkeling"]
+          },
+          "populerlik_puani": 81,
+          "ziyaretci_sayisi_yillik": 420000,
+          "temizlik_skoru": 8.5,
+          "guvenlik_skoru": 8.8
+        }
+      ]
+    },
+    {
+      "il": "Aydın",
+      "plajlar": [
+        {
+          "ad": "Kuşadası Kadınlar Denizi Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Kuşadası",
+          "koordinatlar": {
+            "enlem": 37.8500,
+            "boylam": 27.2667
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1000,
+            "genislik_metre": 35,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Banana", "Ring"]
+          },
+          "populerlik_puani": 90,
+          "ziyaretci_sayisi_yillik": 1400000,
+          "temizlik_skoru": 8.9,
+          "guvenlik_skoru": 9.1
+        },
+        {
+          "ad": "Didim Altınkum Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Didim",
+          "koordinatlar": {
+            "enlem": 37.3667,
+            "boylam": 27.2667
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2500,
+            "genislik_metre": 50,
+            "kum_tipi": "Altın rengi ince kum",
+            "deniz_derinligi": "Çok yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Kano", "SUP"]
+          },
+          "populerlik_puani": 91,
+          "ziyaretci_sayisi_yillik": 1600000,
+          "temizlik_skoru": 9.0,
+          "guvenlik_skoru": 9.2
+        },
+        {
+          "ad": "Güllübahçe Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Kuşadası",
+          "koordinatlar": {
+            "enlem": 37.8000,
+            "boylam": 27.2000
+          },
+          "ozellikler": {
+            "uzunluk_metre": 400,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling", "Dalış"]
+          },
+          "populerlik_puani": 86,
+          "ziyaretci_sayisi_yillik": 280000,
+          "temizlik_skoru": 8.7,
+          "guvenlik_skoru": 8.5,
+          "dogal_guzellik_skoru": 9.0
+        }
+      ]
+    },
+    {
+      "il": "Mersin",
+      "plajlar": [
+        {
+          "ad": "Erdemli Kumkuyu Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Erdemli",
+          "koordinatlar": {
+            "enlem": 36.6167,
+            "boylam": 34.3000
+          },
+          "ozellikler": {
+            "uzunluk_metre": 3500,
+            "genislik_metre": 40,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Muz"]
+          },
+          "populerlik_puani": 85,
+          "ziyaretci_sayisi_yillik": 600000,
+          "temizlik_skoru": 8.6,
+          "guvenlik_skoru": 8.9
+        },
+        {
+          "ad": "Silifke Taşucu Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Silifke",
+          "koordinatlar": {
+            "enlem": 36.2833,
+            "boylam": 33.9167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2000,
+            "genislik_metre": 35,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Kano", "Balıkçılık"]
+          },
+          "populerlik_puani": 80,
+          "ziyaretci_sayisi_yillik": 450000,
+          "temizlik_skoru": 8.3,
+          "guvenlik_skoru": 8.6
+        },
+        {
+          "ad": "Anamur Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Anamur",
+          "koordinatlar": {
+            "enlem": 36.0833,
+            "boylam": 32.8333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 5000,
+            "genislik_metre": 60,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": [],
+            "oze_coruma_alani": "Caretta Caretta yuvalanma alanı"
+          },
+          "populerlik_puani": 83,
+          "ziyaretci_sayisi_yillik": 380000,
+          "temizlik_skoru": 8.5,
+          "guvenlik_skoru": 8.4,
+          "dogal_guzellik_skoru": 8.7
+        }
+      ]
+    },
+    {
+      "il": "Balıkesir",
+      "plajlar": [
+        {
+          "ad": "Ayvalık Sarımsaklı Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Ayvalık",
+          "koordinatlar": {
+            "enlem": 39.3167,
+            "boylam": 26.7000
+          },
+          "ozellikler": {
+            "uzunluk_metre": 4000,
+            "genislik_metre": 50,
+            "kum_tipi": "Altın rengi ince kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Rüzgar sörfü", "Kite", "Jet ski"]
+          },
+          "populerlik_puani": 90,
+          "ziyaretci_sayisi_yillik": 950000,
+          "temizlik_skoru": 8.9,
+          "guvenlik_skoru": 9.0
+        },
+        {
+          "ad": "Edremit Akçay Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Edremit",
+          "koordinatlar": {
+            "enlem": 39.5667,
+            "boylam": 27.0167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1500,
+            "genislik_metre": 30,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Banana"]
+          },
+          "populerlik_puani": 82,
+          "ziyaretci_sayisi_yillik": 520000,
+          "temizlik_skoru": 8.4,
+          "guvenlik_skoru": 8.7
+        },
+        {
+          "ad": "Cunda Adası Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Ayvalık",
+          "koordinatlar": {
+            "enlem": 39.3000,
+            "boylam": 26.6667
+          },
+          "ozellikler": {
+            "uzunluk_metre": 800,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling", "Tekne turları"]
+          },
+          "populerlik_puani": 88,
+          "ziyaretci_sayisi_yillik": 480000,
+          "temizlik_skoru": 8.6,
+          "guvenlik_skoru": 8.5,
+          "dogal_guzellik_skoru": 9.2
+        }
+      ]
+    },
+    {
+      "il": "Çanakkale",
+      "plajlar": [
+        {
+          "ad": "Assos Kadırga Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Ayvacık",
+          "koordinatlar": {
+            "enlem": 39.4833,
+            "boylam": 26.3333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 300,
+            "genislik_metre": 20,
+            "kum_tipi": "Çakıl",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling", "Dalış"],
+            "oze_durum": "Tarihi antik liman yanında"
+          },
+          "populerlik_puani": 87,
+          "ziyaretci_sayisi_yillik": 320000,
+          "temizlik_skoru": 8.8,
+          "guvenlik_skoru": 8.3,
+          "dogal_guzellik_skoru": 9.3
+        },
+        {
+          "ad": "Bozcaada Ayazma Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Bozcaada",
+          "koordinatlar": {
+            "enlem": 39.8333,
+            "boylam": 26.0333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 600,
+            "genislik_metre": 30,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Rüzgar sörfü", "Kite"]
+          },
+          "populerlik_puani": 93,
+          "ziyaretci_sayisi_yillik": 550000,
+          "temizlik_skoru": 9.3,
+          "guvenlik_skoru": 9.1
+        },
+        {
+          "ad": "Gelibolu Kilitbahir Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Gelibolu",
+          "koordinatlar": {
+            "enlem": 40.2167,
+            "boylam": 26.4333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1200,
+            "genislik_metre": 35,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Balıkçılık", "Tekne turları"],
+            "tarihi_onem": "Çanakkale Savaşları bölgesi"
+          },
+          "populerlik_puani": 78,
+          "ziyaretci_sayisi_yillik": 280000,
+          "temizlik_skoru": 8.2,
+          "guvenlik_skoru": 8.6
+        }
+      ]
+    },
+    {
+      "il": "Muğla-Datça",
+      "plajlar": [
+        {
+          "ad": "Kızlbükü Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Datça",
+          "koordinatlar": {
+            "enlem": 36.7333,
+            "boylam": 27.7500
+          },
+          "ozellikler": {
+            "uzunluk_metre": 400,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Kano", "Snorkeling"]
+          },
+          "populerlik_puani": 89,
+          "ziyaretci_sayisi_yillik": 250000,
+          "temizlik_skoru": 9.0,
+          "guvenlik_skoru": 8.7,
+          "dogal_guzellik_skoru": 9.4
+        },
+        {
+          "ad": "Ovabükü Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Datça",
+          "koordinatlar": {
+            "enlem": 36.7167,
+            "boylam": 27.7333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 500,
+            "genislik_metre": 30,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Kano", "SUP"]
+          },
+          "populerlik_puani": 90,
+          "ziyaretci_sayisi_yillik": 270000,
+          "temizlik_skoru": 9.1,
+          "guvenlik_skoru": 8.8,
+          "dogal_guzellik_skoru": 9.5
+        }
+      ]
+    },
+    {
+      "il": "Hatay",
+      "plajlar": [
+        {
+          "ad": "Samandağ Çevlik Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Samandağ",
+          "koordinatlar": {
+            "enlem": 36.1000,
+            "boylam": 35.9333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 8000,
+            "genislik_metre": 70,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Sörf", "Kite"],
+            "oze_coruma_alani": "Caretta Caretta yuvalanma alanı"
+          },
+          "populerlik_puani": 84,
+          "ziyaretci_sayisi_yillik": 350000,
+          "temizlik_skoru": 8.4,
+          "guvenlik_skoru": 8.3,
+          "dogal_guzellik_skoru": 8.9
+        },
+        {
+          "ad": "Arsuz Halk Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Arsuz",
+          "koordinatlar": {
+            "enlem": 36.4167,
+            "boylam": 35.8333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2500,
+            "genislik_metre": 40,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Muz"]
+          },
+          "populerlik_puani": 81,
+          "ziyaretci_sayisi_yillik": 420000,
+          "temizlik_skoru": 8.3,
+          "guvenlik_skoru": 8.6
+        }
+      ]
+    },
+    {
+      "il": "Adana",
+      "plajlar": [
+        {
+          "ad": "Yumurtalık Halk Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Yumurtalık",
+          "koordinatlar": {
+            "enlem": 36.7667,
+            "boylam": 35.7833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 3000,
+            "genislik_metre": 45,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Kano"]
+          },
+          "populerlik_puani": 79,
+          "ziyaretci_sayisi_yillik": 380000,
+          "temizlik_skoru": 8.1,
+          "guvenlik_skoru": 8.5
+        },
+        {
+          "ad": "Karataş Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Karataş",
+          "koordinatlar": {
+            "enlem": 36.5667,
+            "boylam": 35.3833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 5000,
+            "genislik_metre": 50,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": [],
+            "oze_coruma_alani": "Caretta Caretta yuvalanma alanı"
+          },
+          "populerlik_puani": 82,
+          "ziyaretci_sayisi_yillik": 320000,
+          "temizlik_skoru": 8.3,
+          "guvenlik_skoru": 8.2,
+          "dogal_guzellik_skoru": 8.6
+        }
+      ]
+    },
+    {
+      "il": "Tekirdağ",
+      "plajlar": [
+        {
+          "ad": "Şarköy Halk Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Şarköy",
+          "koordinatlar": {
+            "enlem": 40.6500,
+            "boylam": 27.1167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1500,
+            "genislik_metre": 30,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Plaj voleybolu", "Futbol"]
+          },
+          "populerlik_puani": 76,
+          "ziyaretci_sayisi_yillik": 280000,
+          "temizlik_skoru": 8.0,
+          "guvenlik_skoru": 8.4
+        },
+        {
+          "ad": "Gaziköy Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Saray",
+          "koordinatlar": {
+            "enlem": 41.0833,
+            "boylam": 28.0167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2000,
+            "genislik_metre": 40,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Rüzgar sörfü", "Kite"]
+          },
+          "populerlik_puani": 80,
+          "ziyaretci_sayisi_yillik": 220000,
+          "temizlik_skoru": 8.2,
+          "guvenlik_skoru": 8.1,
+          "dogal_guzellik_skoru": 8.4
+        }
+      ]
+    },
+    {
+      "il": "Kocaeli",
+      "plajlar": [
+        {
+          "ad": "Kefken İncili Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Kandıra",
+          "koordinatlar": {
+            "enlem": 41.0833,
+            "boylam": 30.1667
+          },
+          "ozellikler": {
+            "uzunluk_metre": 600,
+            "genislik_metre": 25,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling", "Dalış"]
+          },
+          "populerlik_puani": 85,
+          "ziyaretci_sayisi_yillik": 300000,
+          "temizlik_skoru": 8.5,
+          "guvenlik_skoru": 8.3,
+          "dogal_guzellik_skoru": 8.9
+        },
+        {
+          "ad": "Kerpe Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Kandıra",
+          "koordinatlar": {
+            "enlem": 41.0667,
+            "boylam": 30.1333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 800,
+            "genislik_metre": 30,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Kano", "Balıkçılık"]
+          },
+          "populerlik_puani": 83,
+          "ziyaretci_sayisi_yillik": 350000,
+          "temizlik_skoru": 8.3,
+          "guvenlik_skoru": 8.5
+        }
+      ]
+    },
+    {
+      "il": "Sinop",
+      "plajlar": [
+        {
+          "ad": "Akliman Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Merkez",
+          "koordinatlar": {
+            "enlem": 42.0167,
+            "boylam": 34.9833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 400,
+            "genislik_metre": 20,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling", "Dalış"]
+          },
+          "populerlik_puani": 86,
+          "ziyaretci_sayisi_yillik": 180000,
+          "temizlik_skoru": 8.7,
+          "guvenlik_skoru": 8.4,
+          "dogal_guzellik_skoru": 9.1
+        },
+        {
+          "ad": "Kumkapı Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Merkez",
+          "koordinatlar": {
+            "enlem": 42.0333,
+            "boylam": 35.1500
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1000,
+            "genislik_metre": 30,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Kano"]
+          },
+          "populerlik_puani": 77,
+          "ziyaretci_sayisi_yillik": 220000,
+          "temizlik_skoru": 8.1,
+          "guvenlik_skoru": 8.5
+        }
+      ]
+    },
+    {
+      "il": "Samsun",
+      "plajlar": [
+        {
+          "ad": "Atakum Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Atakum",
+          "koordinatlar": {
+            "enlem": 41.3167,
+            "boylam": 36.2833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2500,
+            "genislik_metre": 40,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Plaj voleybolu", "Futbol", "Jet ski"]
+          },
+          "populerlik_puani": 80,
+          "ziyaretci_sayisi_yillik": 450000,
+          "temizlik_skoru": 8.2,
+          "guvenlik_skoru": 8.6
+        },
+        {
+          "ad": "Çarşamba Kurupelit Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Çarşamba",
+          "koordinatlar": {
+            "enlem": 41.2833,
+            "boylam": 36.5167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 3000,
+            "genislik_metre": 50,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Kite", "Rüzgar sörfü"]
+          },
+          "populerlik_puani": 78,
+          "ziyaretci_sayisi_yillik": 280000,
+          "temizlik_skoru": 8.0,
+          "guvenlik_skoru": 8.2,
+          "dogal_guzellik_skoru": 8.3
+        }
+      ]
+    },
+    {
+      "il": "Trabzon",
+      "plajlar": [
+        {
+          "ad": "Akçakale Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Ortahisar",
+          "koordinatlar": {
+            "enlem": 41.0333,
+            "boylam": 39.7167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 800,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Balıkçılık"]
+          },
+          "populerlik_puani": 75,
+          "ziyaretci_sayisi_yillik": 320000,
+          "temizlik_skoru": 7.9,
+          "guvenlik_skoru": 8.3
+        },
+        {
+          "ad": "Söğünlü Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Vakfıkebir",
+          "koordinatlar": {
+            "enlem": 41.0833,
+            "boylam": 39.2833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 600,
+            "genislik_metre": 20,
+            "kum_tipi": "Çakıl",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling"]
+          },
+          "populerlik_puani": 81,
+          "ziyaretci_sayisi_yillik": 150000,
+          "temizlik_skoru": 8.3,
+          "guvenlik_skoru": 8.0,
+          "dogal_guzellik_skoru": 8.7
+        }
+      ]
+    },
+    {
+      "il": "Rize",
+      "plajlar": [
+        {
+          "ad": "Palamutluk Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Ardeşen",
+          "koordinatlar": {
+            "enlem": 41.2167,
+            "boylam": 40.9833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 400,
+            "genislik_metre": 15,
+            "kum_tipi": "Çakıl",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling", "Dalış"]
+          },
+          "populerlik_puani": 83,
+          "ziyaretci_sayisi_yillik": 120000,
+          "temizlik_skoru": 8.5,
+          "guvenlik_skoru": 8.1,
+          "dogal_guzellik_skoru": 9.0
+        }
+      ]
+    },
+    {
+      "il": "Artvin",
+      "plajlar": [
+        {
+          "ad": "Sahil Yol Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Hopа",
+          "koordinatlar": {
+            "enlem": 41.3833,
+            "boylam": 41.4333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 300,
+            "genislik_metre": 15,
+            "kum_tipi": "Çakıl",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Balıkçılık"]
+          },
+          "populerlik_puani": 72,
+          "ziyaretci_sayisi_yillik": 80000,
+          "temizlik_skoru": 8.0,
+          "guvenlik_skoru": 8.2
+        }
+      ]
+    },
+    {
+      "il": "Giresun",
+      "plajlar": [
+        {
+          "ad": "Görele Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Görele",
+          "koordinatlar": {
+            "enlem": 40.9167,
+            "boylam": 39.0167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1200,
+            "genislik_metre": 30,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Jet ski", "Balıkçılık"]
+          },
+          "populerlik_puani": 74,
+          "ziyaretci_sayisi_yillik": 180000,
+          "temizlik_skoru": 7.8,
+          "guvenlik_skoru": 8.2
+        }
+      ]
+    },
+    {
+      "il": "Ordu",
+      "plajlar": [
+        {
+          "ad": "Perşembe Yaylası Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Perşembe",
+          "koordinatlar": {
+            "enlem": 41.1333,
+            "boylam": 37.8833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 500,
+            "genislik_metre": 20,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling", "Tekne turları"]
+          },
+          "populerlik_puani": 79,
+          "ziyaretci_sayisi_yillik": 140000,
+          "temizlik_skoru": 8.1,
+          "guvenlik_skoru": 8.0,
+          "dogal_guzellik_skoru": 8.6
+        }
+      ]
+    },
+    {
+      "il": "Bartın",
+      "plajlar": [
+        {
+          "ad": "İnkumu Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Amasra",
+          "koordinatlar": {
+            "enlem": 41.7500,
+            "boylam": 32.3833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 2000,
+            "genislik_metre": 40,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Kano", "Snorkeling"]
+          },
+          "populerlik_puani": 88,
+          "ziyaretci_sayisi_yillik": 350000,
+          "temizlik_skoru": 8.6,
+          "guvenlik_skoru": 8.5,
+          "dogal_guzellik_skoru": 9.2
+        }
+      ]
+    },
+    {
+      "il": "Zonguldak",
+      "plajlar": [
+        {
+          "ad": "Çatalağzı Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Çatalağzı",
+          "koordinatlar": {
+            "enlem": 41.4833,
+            "boylam": 31.9167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 800,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Balıkçılık"]
+          },
+          "populerlik_puani": 71,
+          "ziyaretci_sayisi_yillik": 120000,
+          "temizlik_skoru": 7.7,
+          "guvenlik_skoru": 8.1
+        }
+      ]
+    },
+    {
+      "il": "Kastamonu",
+      "plajlar": [
+        {
+          "ad": "İnebolu Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "İnebolu",
+          "koordinatlar": {
+            "enlem": 41.9833,
+            "boylam": 33.7667
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1000,
+            "genislik_metre": 30,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Orta derinleşen",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Balıkçılık", "Kano"]
+          },
+          "populerlik_puani": 73,
+          "ziyaretci_sayisi_yillik": 100000,
+          "temizlik_skoru": 7.9,
+          "guvenlik_skoru": 8.2
+        }
+      ]
+    },
+    {
+      "il": "Antalya-Kaş",
+      "plajlar": [
+        {
+          "ad": "Hidayet Koyu Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Kaş",
+          "koordinatlar": {
+            "enlem": 36.2000,
+            "boylam": 29.6333
+          },
+          "ozellikler": {
+            "uzunluk_metre": 150,
+            "genislik_metre": 20,
+            "kum_tipi": "Çakıl",
+            "deniz_derinligi": "Hızlı derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": false,
+            "şemsiye_şezlong": true,
+            "park_yeri": false,
+            "restoran_cafe": false,
+            "su_sporlari": ["Snorkeling", "Dalış"],
+            "dogal_guzellik": "Kristal berraklığında su"
+          },
+          "populerlik_puani": 92,
+          "ziyaretci_sayisi_yillik": 180000,
+          "temizlik_skoru": 9.4,
+          "guvenlik_skoru": 8.2,
+          "dogal_guzellik_skoru": 9.7
+        },
+        {
+          "ad": "Limanağzı Plajı",
+          "tip": "Belediye Plajı",
+          "ilce": "Kaş",
+          "koordinatlar": {
+            "enlem": 36.2000,
+            "boylam": 29.6400
+          },
+          "ozellikler": {
+            "uzunluk_metre": 200,
+            "genislik_metre": 15,
+            "kum_tipi": "Beton platform",
+            "deniz_derinligi": "Derin",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Tekne turları", "Snorkeling"]
+          },
+          "populerlik_puani": 84,
+          "ziyaretci_sayisi_yillik": 400000,
+          "temizlik_skoru": 8.5,
+          "guvenlik_skoru": 8.8
+        }
+      ]
+    },
+    {
+      "il": "Muğla-Bodrum",
+      "plajlar": [
+        {
+          "ad": "Bitez Plajı",
+          "tip": "Mavi Bayraklı",
+          "ilce": "Bodrum",
+          "koordinatlar": {
+            "enlem": 37.0167,
+            "boylam": 27.3833
+          },
+          "ozellikler": {
+            "uzunluk_metre": 1200,
+            "genislik_metre": 35,
+            "kum_tipi": "İnce kum",
+            "deniz_derinligi": "Sığ lagün",
+            "engelli_erişimi": true,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Windsurf", "Kite", "SUP"],
+            "aile_dostu": "Çocuklar için ideal sığ su"
+          },
+          "populerlik_puani": 90,
+          "ziyaretci_sayisi_yillik": 900000,
+          "temizlik_skoru": 8.9,
+          "guvenlik_skoru": 9.2
+        },
+        {
+          "ad": "Gümüşlük Plajı",
+          "tip": "Popüler Doğal",
+          "ilce": "Bodrum",
+          "koordinatlar": {
+            "enlem": 37.0500,
+            "boylam": 27.3167
+          },
+          "ozellikler": {
+            "uzunluk_metre": 800,
+            "genislik_metre": 25,
+            "kum_tipi": "Çakıl-kum",
+            "deniz_derinligi": "Yavaş derinleşen",
+            "engelli_erişimi": false,
+            "duş_wcc": true,
+            "şemsiye_şezlong": true,
+            "park_yeri": true,
+            "restoran_cafe": true,
+            "su_sporlari": ["Snorkeling", "Gün batımı izleme"],
+            "tarihi_onem": "Antik Myndos kalıntıları yanında"
+          },
+          "populerlik_puani": 91,
+          "ziyaretci_sayisi_yillik": 650000,
+          "temizlik_skoru": 8.8,
+          "guvenlik_skoru": 8.6,
+          "dogal_guzellik_skoru": 9.3
+        }
+      ]
+    }
+  ]
+}
