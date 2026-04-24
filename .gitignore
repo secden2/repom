@@ -1,1 +1,30 @@
-Nothing should be ignored since only a Python source file (.py) was added and there are no build artifacts, dependencies, or temporary files in the changes.
+```json
+{
+  "plajlar": [
+    {
+      "name": "Kadriye Plajı",
+      "location": "Antalya",
+      "rating": 4.5,
+      "amenities": ["şemsiye", "bar", "WC"]
+    },
+    {
+      "name": "Lara Plajı",
+      "location": "Antalya",
+      "rating": 4.2,
+      "amenities": ["şemsiye", "WC", "duş"]
+    },
+    {
+      "name": "Konyaaltı Plajı",
+      "location": "Antalya",
+      "rating": 4.0,
+      "amenities": ["şemsiye", "WC"]
+    },
+    {
+      "name": "Faselis Plajı",
+      "location": "Antalya",
+      "rating": 4.7,
+      "amenities": ["şemsiye", "bar", "WC", "duş"]
+    }
+  ]
+}
+```
